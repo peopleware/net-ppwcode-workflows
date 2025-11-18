@@ -1,0 +1,5 @@
+# Rider
+/.idea
+
+# vs launch settings
+/src/*/Properties/launchSettings.json

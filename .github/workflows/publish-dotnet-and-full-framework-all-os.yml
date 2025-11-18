@@ -18,7 +18,6 @@ on:
       PPWCODE_NUGET_USER:
         description: 'The NuGet user to be used for Trusted Publishing'
         required: true
-        type: string
 
 jobs:
   build-and-test:
